@@ -1,17 +1,17 @@
 [tool.poetry]
-name = "uwuipy"
-version = "0.1.7"
-description = "Allows the easy implementation of uwuifying words for applications like Discord bots and websites"
-authors = ["Cuprum77", "diminDDL", "R2Boyo25", "ThatRedKite", "pin-lee"]
+name = "uwuipy-italic"
+version = "0.1.0"
+description = "Allows the easy implementation of uwuifying words for applications like Discord bots and websites. Italic actions (in Markdown)."
+authors = ["Cuprum77", "diminDDL", "R2Boyo25", "ThatRedKite", "pin-lee", "Peter-developer01"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "uwuipy"}]
+packages = [{include = "uwuipy-italic"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 
 [tool.poetry.urls]
-homepage = "https://github.com/Cuprum77/uwuipy"
+homepage = "https://github.com/Peter-developer01/uwuipy-italic"
 
 
 [build-system]
