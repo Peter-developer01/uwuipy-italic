@@ -5,7 +5,7 @@ description = "Allows the easy implementation of uwuifying words for application
 authors = ["Cuprum77", "diminDDL", "R2Boyo25", "ThatRedKite", "pin-lee", "Peter-developer01"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "uwuipy-italic"}]
+packages = [{include = "uwuitpy"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
